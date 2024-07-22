@@ -19,7 +19,4 @@ Welcome to the GitHub repository for Aishwariya Ghore's personal portfolio! This
 ## About Aishwariya Ghore
 Aishwariya is a passionate [insert profession/field], with a keen interest in [mention areas of interest]. With a strong background in [mention relevant education/experience], she strives to [mention goals/aspirations].
 
-## About Me (Creator)
-I am Arpan Sankesh, who developed this portfolio for Aishwariya Ghore. With a focus on clean code and elegant design, I crafted this website to represent Aishwariya's professional brand effectively.
 
-Thank you for visiting Aishwariya Ghore's portfolio repository! Feel free to explore, and don't hesitate to reach out with any questions or feedback.
